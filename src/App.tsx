@@ -43,6 +43,7 @@ const App = () => {
               <img
                 className='mask mask-decagon'
                 src={`https://cdn.discordapp.com/avatars/${discordID}/${data?.avatar}`}
+                alt={data?.username}
               />
             </div>
           )}
