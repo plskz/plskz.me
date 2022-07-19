@@ -9,6 +9,11 @@ export const config = {
       link: 'https://github.com/plskz/',
     },
     {
+      slug: 'wakatime',
+      type: 'url',
+      link: 'https://wakatime.com/@plskz',
+    },
+    {
       slug: 'spotify',
       type: 'url',
       link: 'https://open.spotify.com/user/12185348229',
@@ -27,6 +32,11 @@ export const config = {
       slug: 'artstation',
       type: 'url',
       link: 'https://www.artstation.com/plskz',
+    },
+    {
+      slug: 'anilist',
+      type: 'url',
+      link: 'https://anilist.co/user/plskz/',
     },
   ],
 };
