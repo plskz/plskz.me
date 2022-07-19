@@ -49,7 +49,7 @@ const App = () => {
           )}
         </figure>
         <div className='card-body items-center text-center'>
-          <h2 className='card-title font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-700'>
+          <h2 className='card-title text-4xl text-sky-400/100 lg:font-extrabold lg:text-transparent lg:bg-clip-text lg:bg-gradient-to-r lg:from-purple-500 lg:to-pink-700'>
             Palskie
           </h2>
           <p>{data?.bio}</p>
