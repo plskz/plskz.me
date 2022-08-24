@@ -33,10 +33,10 @@ export const config = {
       type: 'url',
       link: 'https://www.artstation.com/plskz',
     },
-    {
-      slug: 'anilist',
-      type: 'url',
-      link: 'https://anilist.co/user/plskz/',
-    },
+    // {
+    //   slug: 'anilist',
+    //   type: 'url',
+    //   link: 'https://anilist.co/user/plskz/',
+    // },
   ],
 };
