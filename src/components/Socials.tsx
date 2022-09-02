@@ -42,11 +42,7 @@ const Socials = () => {
             setIsMounted(false);
           }}
         >
-          <a
-            data-tip={icon.text}
-            key={icon.slug}
-            onClick={handleClick}
-          >
+          <a data-tip={icon.text} key={icon.slug} onClick={handleClick}>
             <Icon icon={icon.slug} />
           </a>
           {isMounted && <ReactTooltip place='top' type='dark' effect='float' />}

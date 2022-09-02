@@ -21,7 +21,7 @@ export const config = {
     {
       slug: 'discord',
       type: 'hover',
-      text: 'Aai#0001',
+      text: 'Aai#2327',
     },
     {
       slug: 'npm',
