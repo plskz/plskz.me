@@ -1,27 +1,30 @@
-# Create T3 App
+# plskz.me
 
-This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
+### Tools & Framework / Libraries
 
-## What's next? How do I make an app with this?
+- [Figma](https://www.figma.com)
+- [T3 Stack](https://init.tips) (Used for TailwindCSS setup only)
 
-We try to keep this project as simple as possible, so you can start with the most basic configuration and then move on to more advanced configuration.
+### Libraries
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+- [DaisyUI](https://daisyui.com/)
+- [React Tool Tip](https://github.com/ReactTooltip/react-tooltip)
+- [React Hot Toast](https://github.com/timolins/react-hot-toast)
 
-- [Next-Auth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [TailwindCSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+### Theme
 
-We also [roll our own docs](https://beta.create.t3.gg) with some summary information and links to the respective documentation.
+- [Catppuccin](https://github.com/catppuccin/catppuccin)
 
-Also checkout these awesome tutorials on `create-t3-app`.
+### API
 
-- [Build a Blog With the T3 Stack - tRPC, TypeScript, Next.js, Prisma & Zod](https://www.youtube.com/watch?v=syEWlxVFUrY)
-- [Build a Live Chat Application with the T3 Stack - TypeScript, Tailwind, tRPC](https://www.youtube.com/watch?v=dXRRY37MPuk)
-- [Build a full stack app with create-t3-app](https://www.nexxel.dev/blog/ct3a-guestbook)
-- [A first look at create-t3-app](https://dev.to/ajcwebdev/a-first-look-at-create-t3-app-1i8f)
+- [Lanyard](https://github.com/alii/use-lanyard)
 
-## How do I deploy this?
+### Deploy
 
-Follow our deployment guides for [Vercel](https://beta.create.t3.gg/en/deployment/vercel) and [Docker](https://beta.create.t3.gg/en/deployment/docker) for more information.
+- [Vercel](https://vercel.com)
+
+### Demo
+
+<img width="1665" alt="image" src="https://user-images.githubusercontent.com/57343545/197852645-111defa9-a823-48fd-9dd9-d400e0588398.png">
+
+<img width="1666" alt="image" src="https://user-images.githubusercontent.com/57343545/197852703-30300a56-7130-4e03-a79a-8c1bd59714d0.png">

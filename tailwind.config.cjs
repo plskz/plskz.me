@@ -2,7 +2,22 @@
 module.exports = {
   content: ["./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      spacing: {
+        128: "32rem",
+      },
+    },
+    fontFamily: {
+      inter: ["Inter", "sans-serif"],
+    },
   },
-  plugins: [],
+  plugins: [
+    require("daisyui"),
+    require("@catppuccin/tailwindcss")({
+      defaultFlavour: "mocha",
+    }),
+  ],
+  daisyui: {
+    themes: [],
+  },
 };
