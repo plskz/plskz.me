@@ -19,13 +19,24 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Zai Santillan</title>
+        <meta name="author" content="Zai Santillan (Palskie)" />
+        <meta name="twitter:site" content="@xiaskii" />
+        <meta name="twitter:creator" content="@xiaskii" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="description"
-          content="Zai Santillan, Software Engineer, Changing the world, one project at a time."
+          content="Software Engineer, Changing the world, one project at a time."
         />
         <link rel="icon" href="/favicon.ico" />
-        <meta name="author" content="Zai Santillan (Palskie)" />
+        <meta property="og:title" content="Zai Santillan" />
         <meta property="og:site_name" content="Zai Santillan" />
+        <meta
+          property="og:description"
+          content="Software Engineer, Changing the world, one project at a time."
+        />
+        <meta property="og:url" content="https://plskz.me" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://i.imgur.com/dNiw55j.png" />
       </Head>
 
       <main className="flex h-screen items-center justify-center px-5">
