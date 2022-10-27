@@ -1,6 +1,6 @@
 # plskz.me
 
-### Tools & Framework / Libraries
+### Tech Stack & Tools
 
 - [Figma](https://www.figma.com)
 - [T3 Stack](https://init.tips) (Used for TailwindCSS setup only)
@@ -25,6 +25,6 @@
 
 ### Demo
 
-<img width="1665" alt="image" src="https://user-images.githubusercontent.com/57343545/197852645-111defa9-a823-48fd-9dd9-d400e0588398.png">
+<img alt="plskz.me - home" src="https://i.imgur.com/dNiw55j.png">
 
-<img width="1666" alt="image" src="https://user-images.githubusercontent.com/57343545/197852703-30300a56-7130-4e03-a79a-8c1bd59714d0.png">
+<img alt="plskz.me - 404" src="https://i.imgur.com/DFTQXmy.png">
