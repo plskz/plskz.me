@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/react";
 const MyApp: AppType = ({ Component, pageProps }) => {
   return (
     <>
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
       <Analytics />
     </>
   );
