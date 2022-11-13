@@ -1,4 +1,4 @@
-# plskz.me
+# [plskz.me](https://plskz.me)
 
 ### Tech Stack & Tools
 
