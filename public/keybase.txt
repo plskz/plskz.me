@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/plskz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://plskz.me
+  * I am plskz (https://keybase.io/plskz) on keybase.
+  * I have a public key ASCgIeaN8EcxGhqUE0LEbgzVCnjMy2oMQ3kuyh4EmrGK5Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a021e68df047311a1a941342c46e0cd50a78cccb6a0c43792eca1e049ab18ae40a",
+      "host": "keybase.io",
+      "kid": "0120a021e68df047311a1a941342c46e0cd50a78cccb6a0c43792eca1e049ab18ae40a",
+      "uid": "1296576fc685093ae5fef5f16dba8619",
+      "username": "plskz"
+    },
+    "merkle_root": {
+      "ctime": 1668418261,
+      "hash": "bf510a921d5d76cc30ab59b05eba585230debcf5b99f03496a5d518d2059d629bde1fde222dcd41fc6faebbf27ff9148fc5883f2da018099b90d2102b805cdae",
+      "hash_meta": "a068b574ee3b32416e13687267889d9b90205aecda843c582c7c540b7aad5634",
+      "seqno": 23547297
+    },
+    "service": {
+      "entropy": "cWlAESCXw/Sh6BlOh4y1lBPy",
+      "hostname": "plskz.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1668418276,
+  "expire_in": 504576000,
+  "prev": "3139f4c31006e95ad6a390b427d1e04fedd36feb0dee3e640356de1f785113cf",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoCHmjfBHMRoalBNCxG4M1Qp4zMtqDEN5LsoeBJqxiuQKp3BheWxvYWTESpcCCcQgMTn0wxAG6VrWo5C0J9HgT+3Tb+sN7j5kA1beH3hRE8/EIEyM0Nt8Bx9kOv2I/xqfbjXZEvQXcoCe3m3UgWytAoL4AgHCo3NpZ8RAk3CuXFXGsBPijkmsEoRx207N+MkuucDrr0MfPY475GC7EMBjLcbe9H4KrCBQkgFpGPr4BwiI5V+wB+aeXIc4DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIImzbjzpfB7ih7Td3IXvPomyrKs4U1U7emNUK0nygyyvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/plskz
+
+==================================================================
