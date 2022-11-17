@@ -36,6 +36,7 @@ const DiscordAvatar: NextPage<Props> = ({ data, discordID }) => {
           width="512"
           height="512"
           className="rounded-full"
+          priority
         />
       </div>
 
