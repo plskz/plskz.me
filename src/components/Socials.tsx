@@ -27,6 +27,7 @@ const Socials: NextPage<Props> = ({ discordUsername }) => {
         {/* start socials */}
         <div className="flex flex-wrap justify-center gap-5">
           <a
+            className="umami--click--github-btn"
             href="https://github.com/plskz"
             target="_blank"
             rel="noopener noreferrer"
@@ -35,6 +36,7 @@ const Socials: NextPage<Props> = ({ discordUsername }) => {
           </a>
 
           <a
+            className="umami--click--wakatime-btn"
             href="https://wakatime.com/@plskz"
             target="_blank"
             rel="noopener noreferrer"
@@ -47,6 +49,7 @@ const Socials: NextPage<Props> = ({ discordUsername }) => {
           </a>
 
           <a
+            className="umami--click--spotify-btn"
             href="https://open.spotify.com/user/12185348229"
             target="_blank"
             rel="noopener noreferrer"
@@ -55,6 +58,7 @@ const Socials: NextPage<Props> = ({ discordUsername }) => {
           </a>
 
           <a
+            className="umami--click--npmjs-btn"
             href="https://www.npmjs.com/~plskz"
             target="_blank"
             rel="noopener noreferrer"
