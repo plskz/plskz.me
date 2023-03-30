@@ -44,7 +44,12 @@ const Socials: NextPage<Props> = ({ discordUsername }) => {
             <SiWakatime className="h-10 w-10 duration-300 ease-in-out hover:scale-[1.15]" />
           </a>
 
-          <a className="umami--click--discord-btn" data-tip data-for="discordHover" onClick={handleClick}>
+          <a
+            className="umami--click--discord-btn"
+            data-tip
+            data-for="discordHover"
+            onClick={handleClick}
+          >
             <SiDiscord className="h-10 w-10 cursor-pointer duration-300 ease-in-out hover:scale-[1.15]" />
           </a>
 

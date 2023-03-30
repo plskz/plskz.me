@@ -12,20 +12,18 @@ const DiscordAvatar: NextPage<Props> = ({ data, discordID }) => {
   if (!data) {
     return (
       <div className="indicator avatar mx-auto animate-pulse">
-        <span className="indicator-bottom badge-secondary badge indicator-item right-5 bottom-4 h-7 w-7 border-4 border-base bg-slate-500"></span>
+        <span className="indicator-bottom badge-secondary badge indicator-item bottom-4 right-5 h-7 w-7 border-4 border-base bg-slate-500"></span>
         <div className="h-32 w-32 rounded-full bg-gray-300" />
       </div>
     );
   }
-
-  console.clear();
 
   return (
     <div className="indicator mx-auto">
       <span
         data-tip
         data-for="discordStatus"
-        className={`indicator-bottom badge-secondary badge indicator-item right-5 bottom-4 h-7 w-7 border-4 border-base ${
+        className={`indicator-bottom badge-secondary badge indicator-item bottom-4 right-5 h-7 w-7 border-4 border-base ${
           data?.discord_status === "offline" ? "bg-slate-500" : "bg-green"
         }`}
       ></span>
