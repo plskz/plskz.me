@@ -21,6 +21,7 @@ const Socials: NextPage<Props> = ({ discordUsername }) => {
     });
   };
 
+  console.clear();
   console.log("%cHi!", "color: blue; font-size: 28px", "\n\nI love raccoons!");
 
   return (
