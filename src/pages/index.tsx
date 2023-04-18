@@ -15,8 +15,6 @@ const Home: NextPage = () => {
     ? "Aai#0000"
     : data?.discord_user.username + "#" + data?.discord_user.discriminator;
 
-  console.log("%cHi!", "color: blue; font-size: 28px", "\n\nI love raccoons!");
-
   return (
     <>
       <Head>

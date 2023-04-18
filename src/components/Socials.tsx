@@ -14,12 +14,14 @@ interface Props {
 }
 
 const Socials: NextPage<Props> = ({ discordUsername }) => {
-  const handleClick = (e: any) => {
+  const handleClick = () => {
     navigator.clipboard.writeText(discordUsername);
     toast.success("Copied to clipboard!", {
       duration: 2000,
     });
   };
+
+  console.log("%cHi!", "color: blue; font-size: 28px", "\n\nI love raccoons!");
 
   return (
     <div className="mt-5 h-1/4 w-full md:mt-3 lg:mt-3">
