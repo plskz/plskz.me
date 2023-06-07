@@ -12,8 +12,8 @@ const discordID = "90431685472038912";
 const Home: NextPage = () => {
   const { data } = useLanyard(discordID);
   const discordUsername = !data
-    ? "Aai#0000"
-    : data?.discord_user.username + "#" + data?.discord_user.discriminator;
+    ? "https://dub.sh/Aai"
+    : data.discord_user.username;
 
   return (
     <>
