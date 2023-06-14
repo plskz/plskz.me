@@ -27,6 +27,8 @@ const Home: NextPage = () => {
           name="description"
           content="Software Engineer, Changing the world, one project at a time."
         />
+        <meta name="p:domain_verify" content="6858c880d939003145c1c4c01ad78e58"/>
+
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Zai Santillan" />
         <meta property="og:site_name" content="Zai Santillan" />
