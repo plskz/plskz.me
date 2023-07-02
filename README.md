@@ -1,5 +1,8 @@
 # [plskz.me](https://plskz.me)
 
+> **Warning**
+> Expired July 2, 2022 - July 2, 2023.
+
 ### Tech Stack & Tools
 
 - [Figma](https://www.figma.com)
