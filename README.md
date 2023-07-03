@@ -1,12 +1,12 @@
-# [plskz.me](https://plskz.me)
+# [plskz.me](https://plskz-me.vercel.app/)
 
 > **Warning**
-> Expired July 2, 2022 - July 2, 2023.
+> Domain Expired July 2, 2022 - July 2, 2023.
 
 ### Tech Stack & Tools
 
 - [Figma](https://www.figma.com)
-- [T3 Stack](https://init.tips) (Used for TailwindCSS setup only)
+- [T3 Stack](https://github.com/t3-oss/create-t3-app) (Used for TailwindCSS setup only)
 
 ### Libraries
 
