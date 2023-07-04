@@ -31,8 +31,8 @@ const Error = () => {
           <h1 className="bg-gradient-to-r from-[#cba6f7] to-[#f2cdcd] bg-clip-text text-2xl font-extrabold text-transparent">
             404 - Page Not Found
           </h1>
-          <Link href="/">
-            <a className="hover:text-blue">Go back home</a>
+          <Link className="hover:text-blue" href="/">
+            Go back home
           </Link>
         </div>
       </main>
