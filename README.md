@@ -31,6 +31,5 @@
 
 ### Demo
 
-<img alt="plskz.me - home" src="https://i.imgur.com/dNiw55j.png">
-
-<img alt="plskz.me - 404" src="https://i.imgur.com/DFTQXmy.png">
+<img width="1080" alt="Home page of plskz.me" src="https://github.com/plskz/plskz.me/assets/57343545/d56d0b98-9d24-49d4-a35f-a1549b282fb7">
+<img width="1080" alt="Error page of plskz.me" src="https://github.com/plskz/plskz.me/assets/57343545/744178c8-359e-4f2a-857b-6c15ca915f96">
