@@ -7,6 +7,7 @@
 
 - [Figma](https://www.figma.com)
 - [T3 Stack](https://github.com/t3-oss/create-t3-app) (Used for TailwindCSS setup only)
+- [umami](https://umami.is/)
 
 ### Libraries
 
