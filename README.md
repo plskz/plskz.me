@@ -10,9 +10,11 @@
 
 ### Libraries
 
-- [DaisyUI](https://daisyui.com/)
-- [React Tool Tip](https://github.com/ReactTooltip/react-tooltip)
-- [React Hot Toast](https://github.com/timolins/react-hot-toast)
+- [daisyui](https://daisyui.com/)
+- [react-tooltip](https://github.com/ReactTooltip/react-tooltip)
+- [react-hot-toast](https://github.com/timolins/react-hot-toast)
+- [react-icons](https://github.com/react-icons/react-icons)
+- [use-lanyard](https://github.com/alii/use-lanyard)
 
 ### Theme
 
