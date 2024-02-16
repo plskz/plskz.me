@@ -29,7 +29,7 @@ const DiscordAvatar: NextPage<Props> = ({ data, discordID }) => {
       ></span>
       <div className="h-32 w-32 rounded-full">
         <Image
-          src={`https://cdn.discordapp.com/avatars/${discordID}/${data?.discord_user.avatar}.png?size=1024`}
+          src={`https://cdn.discordapp.com/avatars/${discordID}/${data?.discord_user.avatar}.png?size=256`}
           alt="plskz"
           width="512"
           height="512"
